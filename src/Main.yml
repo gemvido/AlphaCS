@@ -1,4 +1,4 @@
-serverAddress: gemsvido/cs.msgeng
+serverAddress: gemvido/cs.msgeng
 disabled: false
 serverName: Chat Server
 serverUrl: https://github.com/gemvido/cs/tree/main/server.msgeng
