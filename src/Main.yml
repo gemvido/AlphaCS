@@ -1,4 +1,4 @@
-serverAddress: gemvido/AlphaCS.msgeng
+serverAddress: gemvido/AlphaCS
 disabled: false
 serverName: Chat Server
 serverUrl: https://github.com/gemvido/AlphaCS/tree/main/server.msgeng
