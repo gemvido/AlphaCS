@@ -1,5 +1,5 @@
 serverAddress: gemvido/AlphaCS
 disabled: false
-serverName: Chat Server
+serverName: gemsvidø's chat server
 serverUrl: https://github.com/gemvido/AlphaCS/tree/main/server.msgeng
-version: v0.1.13-Alpha
+version: 0.2.0
